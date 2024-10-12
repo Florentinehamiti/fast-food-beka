@@ -95,7 +95,7 @@ footer {
     width: 89%!important;
   }
 
-  .btn{
-    font-size: 0.97rem!important;
+  .btn-item:first-child{
+    margin-left: 10px!important;
   }
 }
